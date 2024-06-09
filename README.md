@@ -1,7 +1,12 @@
 # Chris Jackson
+
+![Image Insert](/images/myPic.jpg)
+
 This is a template and instructions for creating your own Assignment0.
 
 _Please follow these instructions carefully, there are several ways to confuse yourself if you don't keep checking against these instructions as you go._
+![Image description]
+
 
 ## Instructions
 
@@ -76,8 +81,13 @@ Hopefully your smile will look every bit as dorky as mine.
 
 File path problems are very typical for most students in assignments 1 and 3. This is a good thing to learn early and get out of the way. If you don't understand how I got `/images/Pete.jpg` as the file path feel free to consult bard or chatgpt or any other AI.
 
-## Should I repeat Assignment0?
 
+
+<img src=”(./images/myPic.jpg)”>
+
+
+
+## Should I repeat Assignment0?
 This is something close to a 10 minute assignment once you get the hang of it. There is every reason for you to want to get this stuff into muscle memory early, because every assignment gets committed to github! 
 
 You may save time, in the end, by repeating this assignment until it gets super easy and boring.
